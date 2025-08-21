@@ -1,18 +1,19 @@
-# Quartz v4
+Hybrid Modularity : Balance in Standardization and Customization
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Traditional modularization​​, implemented through ​​Offsite Fabrication + Onsite Integration​​, which prioritizes physical-layer. In practice, constrained by the ​​process specificity​​ of process industries, ​​diversity of specialized equipment​​, ​​complexity of construction site conditions​​, and ​​transportation limitations​​, traditional modular approaches often stall at the feasibility stage. Or ttempts to "forcibly implement" incur high risks and uncertainties due to compromised engineering integrity.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+​​Hybrid Modularity​​ aims to optimize this paradigm by ​​enhancing efficiency and cost-effectiveness through standardized modules​​, while ​​preserving adaptability via customized modules/skids/process units​​. By implementing ​​unified interface spanning both physical and cyber-physical layers, it ​​organically integrates standardized and bespoke components​​, thereby resolving the ​​high-risk rigidity of full-customization​​ and the ​​inflexibility of standardization​​. Its essence lies in: ​​"Decoupling complexity through modularization, accommodating diverse demands via hybrid integration"​​.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Core Concept
+​​Functional Encapsulation​​
+Encapsulate specific process functions by decoupling modules based on process, hiding internal details while connecting and interacting externally via standardized interfaces.
 
-## Sponsors
+Interface Standardization
+Establish uniform interfaces at both physical connection layers and control-communication layers, standardizing connection methods to reduce costs and enhance adaptability.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+​​Plug-and-Play (PnP) Integration​​
+Combine hybrid modules through plug-and-play mechanisms to achieve complete process flows.
+
+​​High Extensibility​​
+Enable scalable system expansion via unified interfaces, reducing maintenance and process upgrade costs.
