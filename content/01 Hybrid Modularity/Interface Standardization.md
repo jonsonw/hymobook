@@ -2,3 +2,25 @@
 Establish uniform interfaces at both physical connection layers and control-communication layers, standardizing connection methods to reduce costs and enhance adaptability.
 
 We try to define or create an idividual component  or group which be treated as an standard interface for the module.
+
+
+```mermaid
+classDiagram
+	Interface <|--Piping
+	Interface <|--Power
+	Interface <|--Control
+	
+	class Piping{
+		Flange
+		Welding
+		Quick coupuling
+	}
+	class Power{
+		Cable
+		Socket
+	}
+	class Control{
+		Fibre optsical
+		Net
+	}
+```
