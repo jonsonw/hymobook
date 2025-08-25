@@ -29,11 +29,11 @@ sequenceDiagram
 	B-->>-A:Modularity Scheme
 	A-->>+B:Scheme Accept
 	B-->>+C:Engineering Input & Condition
+	C-->>C:Building & Foundation
 	A-->>B:FAT
-	C-->>-B:Building & Foundation Codition
 	B->>-C:Module Shipping & Transportation
 	A-->>C:SAT
-	B->>+C:Commissioning
+	B->>C:Commissioning
 	C-->>-B:Start-up
 	B->>+A:Handover
 ```
